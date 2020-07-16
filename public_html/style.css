@@ -1,0 +1,350 @@
+/* index page */
+body{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+}
+.font{
+    font-family: 'Dancing Script', cursive;
+}
+.white{
+    color: white;
+}
+.ra{
+    padding: 5px;
+    background-color: #ffcc00;
+    color: black;
+}
+.cd{
+    padding: 30px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    color: black;
+}
+.navbar-brand:hover{
+    color: #ffcc00;
+}
+.navbar{
+    background-color: white;
+}
+.nav-link{
+    margin-left: 50px;
+    font-size: 15px;
+    color:black;
+}
+.nav-link:hover{
+    color: #ffcc00;
+}
+.review{
+    padding: 10px;
+}
+
+
+.button {
+  background-color: #ffcc00;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+.button:hover{
+    background-color:  black;
+    color: white;
+}
+.hamburger{
+    width: 100%;
+    color: black;
+}
+img{
+    max-width: 100%;
+    float: left;
+}
+#iii{
+    width:20%;
+}
+.dlv{
+ 
+    text-align: center;
+    padding-top:100px;
+    background-color: black;
+    color: white;
+}
+.blk1{
+    padding: 20px;
+    background-color: white;  
+}
+.stripe{
+    padding: 20px;
+    text-align: center;
+    background: rgb(255,240,128);
+background: linear-gradient(180deg, rgba(255,240,128,1) 9%, rgba(251,211,132,1) 62%, rgba(255,219,181,1) 100%);
+}
+.blk2{
+    padding-top: 100px;
+    background-color: white;
+}
+.prop{
+    padding: 10px;
+    }
+
+#custom-nav {
+    -webkit-box-shadow: 20px 20px 20px black;
+    -moz-box-shadow:    20px 20px 20px black;
+    box-shadow:         2px 2px 20px black;
+    z-index:999;
+}
+.JumboHeaderImg{
+    background-image: url(images/banner.jpg);
+    background-size:cover;
+}
+.banner{
+    padding: 50px;
+    background-color:white;
+}
+.patch{
+    background-color: #ffcc00;
+    padding: 10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: black;
+}
+.footer{
+    padding: 10px;
+    background-color: white;
+    -webkit-box-shadow: 20px 20px 20px black;
+    -moz-box-shadow:    20px 20px 20px black;
+    box-shadow:         2px 2px 20px black;
+    z-index:999;
+}
+.block{
+    padding: 50px;
+}
+.details{
+    padding: 50px;
+    background-color: #ffcc00;
+    color: black;
+    font-size: 30px;
+}
+.product{
+    padding: 20px;
+    background-color: white;
+    color: #ffcc00;
+}
+.black{
+    color: black;
+} 
+.button1{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;  
+}
+.button1:hover{
+    background-color:  #ffcc00;
+    color: white;
+}
+.signup{
+    padding-top: 100px;
+    color: #ffcc00;
+    padding-bottom: 50px;
+}
+.login{
+     padding-top: 200px;
+    color: #ffcc00;
+    min-height: 700px;
+    padding-bottom: 100px;
+}   
+.box{
+    width: 350px;
+    padding: 10px;
+    font-size: 12px;
+}
+.drop{
+    color: black;
+    text-decoration: none;
+}
+.drop:hover{
+    color: #ffcc00;
+    text-decoration: none;
+}
+.divider{
+    background-color: black;
+}
+.rent{
+    padding-top: 100px;
+    background-color: #F8F8F8;
+    min-height: 720px;
+}
+.patch1{
+    color: black;
+    padding: 10px;
+    background-color: white;
+    height: 120px;
+    margin-bottom: 10px;
+}
+.patch2{
+   padding: 10px;
+    background-color:white;
+    margin-bottom: 10px;
+}
+
+.yellow{
+    color: #ffcc00;
+}
+.yellow:hover{
+    color: black;
+}
+.gen{
+    color: black;
+    text-decoration: none;
+}
+.gen:hover{
+    color:#ffcc00;
+    text-decoration: none;
+}
+.cart{
+    background-color: #F8F8F8;
+    padding: 20px;
+    padding-top: 120px;
+    min-height: 700px;
+}
+.patch4{
+    background-color: white;
+    padding: 10px;
+}
+.patch5{
+    color: black;
+    padding: 20px;
+    background-color: white;
+    height: 320px;
+    margin:10px;
+}
+.patch6{
+    background-color: #ffcc00;
+    color: White;
+    padding: 20px;
+}
+.patch6:hover{
+    background-color: black;
+}
+.patch7{
+     color: White;
+    padding: 20px;
+    background-color: black;
+    height: 220px;
+    margin:10px;
+}
+.edit{
+     background-color: #F8F8F8;
+    padding: 20px;
+    padding-top: 120px;
+    min-height: 700px;
+}
+.payment{
+    padding-top: 100px;
+}
+.success{
+    padding-top: 100px;
+    min-height: 700px;
+}
+.patch8{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.track{
+    padding-top: 100px;
+    min-height: 700px;
+    background-color: #F8F8F8;
+    margin: 20px;
+}
+.forgot{
+    padding-top: 100px;
+    min-height: 700px;
+}
+@keyframes slideInFromtop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.banner{  
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 1s ease-out 0s 1 slideInFromtop;
+}
+
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.patch1{  
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.patch{  
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 1.5s ease-out 0s 1 slideInFromLeft;
+}
+@media(max-width:768px){
+    .banner{
+        padding-top: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        height: 80%;
+    }
+    .patch1{
+    color: black;
+    padding: 10px;
+    background-color: white;
+    height: 150px;
+    margin-bottom: 10px;
+}
+#iii{
+
+    height:50%;
+}
+}
+
+@media (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+        body {
+          width: 1px;
+          min-width: 100%;
+          *width: 100%;
+        }
+        #stage {
+          height: 1px;
+          overflow: auto;
+          min-height: 100vh;
+          -webkit-overflow-scrolling: touch;
+        }
+      }

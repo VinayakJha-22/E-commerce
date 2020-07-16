@@ -1,0 +1,10 @@
+[10-Jun-2020 05:49:06 America/New_York] PHP Notice:  Undefined variable: error in /home/turndcjn/public_html/delivery/index.php on line 67
+[10-Jun-2020 11:07:58 America/New_York] PHP Notice:  Undefined variable: db_password in /home/turndcjn/public_html/delivery/index.php on line 41
+[10-Jun-2020 11:08:03 America/New_York] PHP Notice:  Undefined variable: db_password in /home/turndcjn/public_html/delivery/index.php on line 41
+[10-Jun-2020 11:18:00 America/New_York] PHP Notice:  Undefined index: order_id in /home/turndcjn/public_html/delivery/send_mail.php on line 18
+[11-Jun-2020 03:22:58 America/New_York] PHP Notice:  Undefined index: order_id in /home/turndcjn/public_html/delivery/send_mail.php on line 18
+[11-Jun-2020 06:24:18 America/New_York] PHP Notice:  Undefined index: order_id in /home/turndcjn/public_html/delivery/send_mail.php on line 18
+[12-Jun-2020 05:08:02 America/New_York] PHP Notice:  Undefined variable: error in /home/turndcjn/public_html/delivery/index.php on line 67
+[20-Jun-2020 11:59:14 America/New_York] PHP Notice:  Undefined index: order_id in /home/turndcjn/public_html/delivery/send_mail.php on line 18
+[21-Jun-2020 09:31:59 America/New_York] PHP Notice:  Undefined variable: error in /home/turndcjn/public_html/delivery/index.php on line 67
+[21-Jun-2020 09:32:23 America/New_York] PHP Notice:  Undefined index: order_id in /home/turndcjn/public_html/delivery/send_mail.php on line 18
